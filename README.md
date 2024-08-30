@@ -6,7 +6,7 @@ Um projeto simples e visualmente atraente que demonstra diferentes animações d
 
 Veja as animações em ação:
 
-![4 Tipos de Carregamentos](https://i.imgur.com/li0q8Ys.gif)
+![4 Tipos de Carregamentos](https://imgur.com/FlahvpX.gif)
 
 1. **Anéis Giratórios Coloridos**: Uma animação fluida de três anéis rotativos com cores vibrantes.
 2. **Anel de Cores Mutantes**: Um anel que muda de cor enquanto gira em torno de seu eixo.
